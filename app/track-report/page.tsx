@@ -1,5 +1,5 @@
 "use client";
-import { ReportTracker } from "../component/report/ReportTracker";
+import { ReportTracker } from "../../component/report/ReportTracker";
 
 export default function TrackReportPage() {
   return (

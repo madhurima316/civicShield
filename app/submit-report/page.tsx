@@ -1,4 +1,4 @@
-import { ReportWizard } from "../component/report/ReportWizard";
+import { ReportWizard } from "../../component/report/ReportWizard";
 
 export default function SubmitReport() {
   return (
